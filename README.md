@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Kumar</h1>
-<h3 align="center">A passionate Mern developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/focus-animation.gif">
+
+<h3 align="center">A passionate Mern developer</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash-kumarr&label=Profile%20views&color=0e75b6&style=flat" alt="yash-kumarr" /> </p>
